@@ -1,0 +1,51 @@
+2024-05-17 14:26:04,126 - Log -INFO -  The expected Title of the OrangeHRM Application LogIN Page is :- OrangeHRM
+2024-05-17 14:39:13,597 - Log -INFO -  The expected Title of the OrangeHRM Application LogIN Page is :- OrangeHRM
+2024-05-17 14:45:30,800 - Log -INFO -  The expected Title of the OrangeHRM Application LogIN Page is :- OrangeHRM
+2024-05-17 14:46:12,173 - Log -INFO -  The expected Title of the OrangeHRM Application LogIN Page is :- OrangeHRM
+2024-05-17 14:47:23,041 - Log -INFO -  The expected Title of the OrangeHRM Application LogIN Page is :- OrangeHRM
+2024-05-17 14:51:47,307 - Log -INFO -  The expected Title of the OrangeHRM Application LogIN Page is :- OrangeHRM
+2024-05-17 14:53:08,641 - Log -INFO -  The expected Title of the OrangeHRM Application LogIN Page is :- OrangeHRM
+2024-05-17 14:54:24,766 - Log -INFO -  The expected Title of the OrangeHRM Application LogIN Page is :- OrangeHRM
+2024-05-17 15:09:49,673 - Log -INFO -  The expected Title of the OrangeHRM Application LogIN Page is :- OrangeHRM
+2024-05-17 15:33:17,184 - Log -INFO -  The expected Title of the OrangeHRM Application LogIN Page is :- OrangeHRM
+2024-05-17 15:33:17,204 - Log -INFO -  The actual Title of the OrangeHRM Application LogIN Page is :- OrangeHRM
+2024-05-17 15:33:17,206 - Log -INFO -  Successfully Navigated to the OrangeHRM Application LogIN Page - PASS 
+2024-05-17 15:33:17,209 - Log -INFO -  The Expected URL address of the OrangeHRM Application LogIN Page is :- orangehrm-4.2.0.1
+2024-05-17 15:33:17,225 - Log -INFO -  The Actual URL address of the OrangeHRM Application LogIN Page is :- http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2024-05-17 15:33:17,229 - Log -INFO -  Successfully Navigated to the OrangeHRM Application LogIN Page - PASS 
+2024-05-17 15:33:17,230 - Log -INFO -  The Expected TEXT of the OrangeHRM Application LogIN page is :- LOGIN Panel
+2024-05-17 15:33:17,286 - Log -INFO -  Successfully Navigated to the OrangeHRM Application LogIN Page - TEXT Found - PASS 
+2024-05-17 15:33:17,765 - Log -INFO - rohith
+2024-05-17 15:33:17,851 - Log -INFO - Rohith@9697
+2024-05-17 15:33:18,885 - Log -INFO -  The expected Title of the OrangeHRM Application HOME Page is :- OrangeHRM
+2024-05-17 15:33:18,899 - Log -INFO -  The actual Title of the OrangeHRM Application Home Page is :- OrangeHRM
+2024-05-17 15:33:18,901 - Log -INFO -  Successfully Navigated to the OrangeHRM Application HOME Page - PASS 
+2024-05-17 15:37:52,212 - Log -INFO -  The expected Title of the OrangeHRM Application LogIN Page is :- OrangeHRM
+2024-05-17 15:37:52,227 - Log -INFO -  The actual Title of the OrangeHRM Application LogIN Page is :- OrangeHRM
+2024-05-17 15:37:52,229 - Log -INFO -  Successfully Navigated to the OrangeHRM Application LogIN Page - PASS 
+2024-05-17 15:37:52,230 - Log -INFO -  The Expected URL address of the OrangeHRM Application LogIN Page is :- orangehrm-4.2.0.1
+2024-05-17 15:37:52,244 - Log -INFO -  The Actual URL address of the OrangeHRM Application LogIN Page is :- http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2024-05-17 15:37:52,246 - Log -INFO -  Successfully Navigated to the OrangeHRM Application LogIN Page - PASS 
+2024-05-17 15:37:52,247 - Log -INFO -  The Expected TEXT of the OrangeHRM Application LogIN page is :- LOGIN Panel
+2024-05-17 15:37:52,300 - Log -INFO -  Successfully Navigated to the OrangeHRM Application LogIN Page - TEXT Found - PASS 
+2024-05-17 15:37:52,751 - Log -INFO - rohith
+2024-05-17 15:37:52,844 - Log -INFO - Rohith@9697
+2024-05-17 15:37:53,904 - Log -INFO -  The expected Title of the OrangeHRM Application HOME Page is :- OrangeHRM
+2024-05-17 15:37:53,922 - Log -INFO -  The actual Title of the OrangeHRM Application Home Page is :- OrangeHRM
+2024-05-17 15:37:53,924 - Log -INFO -  Successfully Navigated to the OrangeHRM Application HOME Page - PASS 
+2024-05-17 15:41:12,797 - Log -INFO -  The expected Title of the OrangeHRM Application LogIN Page is :- OrangeHRM
+2024-05-17 15:41:12,816 - Log -INFO -  The actual Title of the OrangeHRM Application LogIN Page is :- OrangeHRM
+2024-05-17 15:41:12,817 - Log -INFO -  Successfully Navigated to the OrangeHRM Application LogIN Page - PASS 
+2024-05-17 15:41:12,819 - Log -INFO -  The Expected URL address of the OrangeHRM Application LogIN Page is :- orangehrm-4.2.0.1
+2024-05-17 15:41:12,829 - Log -INFO -  The Actual URL address of the OrangeHRM Application LogIN Page is :- http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2024-05-17 15:41:12,831 - Log -INFO -  Successfully Navigated to the OrangeHRM Application LogIN Page - PASS 
+2024-05-17 15:41:12,835 - Log -INFO -  The Expected TEXT of the OrangeHRM Application LogIN page is :- LOGIN Panel
+2024-05-17 15:41:12,888 - Log -INFO -  Successfully Navigated to the OrangeHRM Application LogIN Page - TEXT Found - PASS 
+2024-05-17 15:41:13,369 - Log -INFO - rohith
+2024-05-17 15:41:13,484 - Log -INFO - Rohith@9989
+2024-05-17 15:41:15,300 - Log -INFO -  The expected Title of the OrangeHRM Application HOME Page is :- OrangeHRM
+2024-05-17 15:41:15,310 - Log -INFO -  The actual Title of the OrangeHRM Application Home Page is :- OrangeHRM
+2024-05-17 15:41:15,312 - Log -INFO -  Successfully Navigated to the OrangeHRM Application HOME Page - PASS 
+2024-05-17 15:41:15,349 - Log -INFO -  The Actual Text of the OrangeHRM Application HomePage is :- Welcome Admin
+2024-05-17 15:41:15,350 - Log -INFO -  Successfully Navigated to the OrangeHRM Application HOME Page - PASS 
+2024-05-17 15:41:16,900 - Log -INFO -  LogOut Test Successfull 

@@ -1,0 +1,33 @@
+package rediffmail;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class full_name 
+{
+	WebDriver driver;
+public  static void main(String[]args)
+{
+	
+System.setProperty("webdriver.chrome.driver", "C:\\Users\\rohit\\eclipse-workspace\\OrangeHRMAApplications\\src\\browserDriveFile\\chromedriver (1).exe");
+	
+	WebDriver driver=new ChromeDriver();
+	String applicationredifurl =("https://mail.rediff.com/cgi-bin/login.cgi");
+	driver.get(applicationredifurl);
+	//  <a href="//register.rediff.com/register/register.php?FormName=user_details"
+	//  title="Create new Rediffmail account"><u>Create a new account</u></a>
+	By Createnewproperty=By.linkText("Create a new account");
+	 WebElement Createnew =driver.findElement(Createnewproperty);
+	 Createnew.click();
+	 
+	 //<input type="text" onblur="fieldTrack(this);" name="name36c27c7d" value="" style="width:185px;" maxlength="61">
+	 By nameproperty =By.xpath("//input[@type='text']");
+	 WebElement name = driver.findElement(nameproperty);
+	 name.sendKeys("rohith");
+	 driver.quit();
+}
+	
+} 
+

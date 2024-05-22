@@ -1,0 +1,25 @@
+package Arrays_java;
+
+public class Array_singelDimisions{
+
+public static void main(String[] args) 
+{
+int array1;
+  array1 = 1200000; 
+  System.out.println(array1);
+  array1=20;
+System.out.println(" the array  of the value is"+array1);
+
+System.out.println("--------------------------------------------------");
+
+//datatype verible name[]=new datatype [size].;
+int rohith1[]=new int[10];
+rohith1[1]=-10;
+rohith1[1]=20;
+System.out.println("the veribles of rohith is "+rohith1[0]);
+System.out.println("the veribles of rohith is "+rohith1[1]);
+System.out.println("the veribles of rohith is "+rohith1[2]);
+
+}
+
+}

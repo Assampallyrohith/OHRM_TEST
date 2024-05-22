@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;browserDriveFiles&apos;" deleteContents="false" description="Delete resource &apos;browserDriveFiles&apos;" element1="/browserDriveFiles" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1713264301917"/>&#x0A;<refactoring comment="Delete resource &apos;OrangeHRMApplication&apos;" deleteContents="false" description="Delete resource &apos;OrangeHRMApplication&apos;" element1="/OrangeHRMApplication" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1713429874850"/>
+</session>
